@@ -1,7 +1,6 @@
 # openglnature-Simulation-of-SaIT
-</br>
-![openglnature](https://user-images.githubusercontent.com/4586123/57190206-82ce0380-6f35-11e9-826e-e0b44541410a.png)
-</br>
+![openglnature](https://user-images.githubusercontent.com/4586123/57190240-d2acca80-6f35-11e9-9817-17972e4f6fdd.png)
+
 </br>
 
 This project simulates a 3D implementation of OpenGL nature. The implementation is done using OpenGL. It
